@@ -31,9 +31,9 @@ The analysis of the election shows that:
 ### Election Audit Summary
 The Election Aduit Analysis script provides an efficient template script to run analysis for election campaigns when tallying counts of votes, percentage of votes tallied within voting counties and for candidates. This code would be effective for larger sets of data as well, with additional counties, votes and candidates. In order to streamline this script to scale or be modified for other elections, however, one could consider refactoring the code in the following ways: 
 
-    - **Define a Dictionary or Array of Counties and Candidates within the code for the the variables to pull from**
+    - Manually Define a Dictionary or Array of Counties and Candidates
         - Ex: county_list = ["Harris County", "Waller County", "Brazoria County"] and candidate_list = ["John Smith", "Pocahontas", "Meeko"]
-    - **Consolidate the For Loops and Conditionals**
+    - Consolidate the For Loops and Conditionals
         - Combine the county results for county percentages, candidate breakdown and winner into one summary print statement, instead of breaking the conditionals into seperate print statements. 
 
 ## Resources
