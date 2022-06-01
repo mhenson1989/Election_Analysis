@@ -8,6 +8,8 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won. 
 5. Determine the winner of the election based on popular vote. 
+    - A snippet of the code for metric #5 is depicted below: 
+    ![Popular Vote Code](https://github.com/mhenson1989/Election_Analysis/blob/main/Resources/WinningCandidate_CodeSnapshot.PNG)
 
 ## Summary
 ### Election Audit Results
